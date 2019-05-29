@@ -1,0 +1,15 @@
+server="rtk.ntrip.qxwz.com"
+port=8001
+user="qxmggg002"
+password="e03f9f6"
+data="RTCM32_GGB"
+bitrate=0
+prompt='0'
+baudrate=115200
+databit='8'
+debug='0'
+echo='0'
+fctl='0'
+tty='1'
+parity='0'
+stopbit='1'
